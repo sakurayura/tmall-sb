@@ -12,7 +12,7 @@
 
 ​	为了证明这是个可以运行的项目，提供了下载一个300多m的压缩包。解压之后如图：  
 
-![项目结构](https://github.com/sakurayura/tianmao-sb/blob/master/images/tianmaoxiangmstructure.png)
+![项目结构](https://github.com/sakurayura/tmall-sb/blob/master/images/tianmaoxiangmstructure.png)
 
 ​	模仿天猫整站 springboot版本地演示启动思路：
 
